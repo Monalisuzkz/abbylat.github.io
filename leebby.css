@@ -1,0 +1,39 @@
+html {
+    background-color: rgb(43, 198, 226);
+}
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Brush Script MT', cursive;
+    color: blueviolet;
+}
+
+h2 {
+    font-size: x-large;
+    font-style: italic;
+    color: rgb(214, 43, 226);
+    font-family: 'Times New Roman', cursive;
+}
+img {
+    width: 250px;
+    height: 300px;
+}
+
+p, hr {
+    text-align: center;
+    color: rgb(179, 80, 80);
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h2 {
+    font-size: small;
+}
+
